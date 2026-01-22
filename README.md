@@ -2,6 +2,7 @@
 # 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow using Python, MySQL, and Power BI.
+
 The objective is to extract insights from raw data through Exploratory Data Analysis (EDA), data cleaning, SQL querying, and interactive dashboarding.
 
 The project showcases data handling, analytical thinking, and business-focused visualization.
@@ -9,16 +10,22 @@ The project showcases data handling, analytical thinking, and business-focused v
 # 📂 Dataset
 
 Source: Public
+
 Format: CSV
+
 Description:
 The dataset contains structured records relevant to business analysis 
 
 # 🛠 Tools & Technologies
 
 Python – Data loading, cleaning, and EDA
+
 Libraries: pandas
+
 MySQL – Data storage and SQL querying
+
 Power BI – Interactive dashboard and visual insights
+
 VS Code – Development environment
 
 # 🔄 Project Steps
